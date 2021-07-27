@@ -1,4 +1,4 @@
-# Kaleidoskop
+# Kaleidoskope
 
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AlinaWoellner/Kaleidoskop">
+  <a href="https://github.com/AlinaWoellner/Kaleidoskope">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,14 +36,14 @@
   <p align="center">
     Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
     <br />
-    <a href="https://github.com/AlinaWoellner/Kaleidoskop"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskope"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AlinaWoellner/Kaleidoskop">View Demo</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskope">View Demo</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Kaleidoskop/issues">Report Bug</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskope/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Kaleidoskop/issues">Request Feature</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskope/issues">Request Feature</a>
   </p>
 </p>
 
@@ -133,17 +133,23 @@ So kommt man eine lokale Kopie des Projekts
 
 ##  Entstehungsprozess
 
+
+
 ##  Reflektion
 
 ## Noch zu erledigen
 
 ## Hauptquellen
-https://www.instructables.com/Frankencan-LED-Kaleidoscope/
+
+Template für die README-Datei: https://github.com/othneildrew/Best-README-Template#getting-started
+Idee des Kaleidoskops/ grober Aufbau: https://www.instructables.com/Frankencan-LED-Kaleidoscope/
+Ausgangscode: https://gist.github.com/kriegsman/062e10f7f07ba8518af6
+Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#convert-arduino-file-to-c-manually
 
 <!-- CONTACT -->
 ## Kontakt
 
-Project Link: [https://github.com/AlinaWoellner/Kaleidoskop](https://github.com/AlinaWoellner/Kaleidoskop)
+Project Link: [https://github.com/AlinaWoellner/Kaleidoskope](https://github.com/AlinaWoellner/Kaleidoskop)
 
 
 
