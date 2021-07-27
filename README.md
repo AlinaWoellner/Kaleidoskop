@@ -152,19 +152,3 @@ Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#conve
 Project Link: [https://github.com/AlinaWoellner/Kaleidoskope](https://github.com/AlinaWoellner/Kaleidoskop)
 
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AlinaWoellner/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/AlinaWoellner/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AlinaWoellner/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/AlinaWoellner/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/AlinaWoellner/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/AlinaWoellner/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AlinaWoellner/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/AlinaWoellner/repo/issues
-[license-shield]: https://img.shields.io/github/license/AlinaWoellner/repo.svg?style=for-the-badge
-[license-url]: https://github.com/AlinaWoellner/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/AlinaWoellner
