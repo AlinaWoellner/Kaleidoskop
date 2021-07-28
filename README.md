@@ -79,19 +79,16 @@
 ### Werkzeuge
 
 #### Zubehör
-* []()   Kabel
-* []()   Drehregler
+* []()  5 Kabel
 * []()  1 Steckplatine
 * []()  1 LED-Ring
-* []()  1 Kondensator 1000μf
-* []()  1 Widerstand 470Ω
 * []()  1 Arduino UNO
 
 
-
 #### Programm
-* []()  VS Code
+* []()  Visual Studio Code
 * []()  Platform IO Plugin
+* []()  FastLED Library
 
 
 <!-- GETTING STARTED -->
@@ -101,17 +98,35 @@ So kommt man eine lokale Kopie des Projekts
 
 ### Installation
 
+Mit Visual Studio Code:
+
 1. Platform IO PLUGIN
    ```sh
-   In der Suchleiste von VS Code eingeben und auf den installieren Button klicken
+   In der Suchleiste von Visual Studio Code "Platform IO" eingeben und auf den installieren Button klicken
    ```
 2. Projekt erstellen
    ```sh
-   Im Plugin auf "import arduino Project" klicken und das geklonte Projekt auswählen
+   Im Plugin auf "New Project" klicken
    ```
+3. FastLED hinzufügen
+   ```sh
+   In Platform IO auf libraries klicken, dort nach "FastLED" suchen und dem Projekt hinzufügen
+   ```
+4. Code
+   ```sh
+   Nun den Code kopieren und in die Datei "main.cpp" des "src"-Ordners einfügen
+   ```
+5. Kompilieren und Uploaden
+   ```sh
+   Den Arduino mit dem Computer verbinden. In VS Code per Häkchen den Code kompilieren und mit rechtsgerichtetem Pfeil uploaden
 
 <!-- USAGE EXAMPLES -->
+Schaltplan
+
 ## Beispielaufbau
+Schaltplan, erstellt mit TinkerCAD:
+![Schaltung_Kaleidoscope](https://user-images.githubusercontent.com/82510384/127372737-56c22987-f8d0-49bc-ae4a-e46f2c79826f.png)
+
   1.  
   2.  
   3.  
