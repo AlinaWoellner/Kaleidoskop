@@ -151,6 +151,7 @@ Schaltplan, erstellt mit TinkerCAD:
 
 Template für die README-Datei: https://github.com/othneildrew/Best-README-Template#getting-started
 Idee des Kaleidoskops/ grober Aufbau: https://www.instructables.com/Frankencan-LED-Kaleidoscope/
+Andere Anleitung zum Anschließen: https://www.youtube.com/watch?v=bm1Avnn1hb8&list=PLw2RrRDBhVsuskd1GUztLoT4q-8Fo56go&index=11&t=47s
 Ausgangscode: https://gist.github.com/kriegsman/062e10f7f07ba8518af6
 Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#convert-arduino-file-to-c-manually
 
