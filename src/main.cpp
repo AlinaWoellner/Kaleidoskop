@@ -17,7 +17,7 @@ CRGB leds[NUM_LEDS];  // Array von FastLED Pixel RGB-Werten
 // Damit der Code funktioniert, müssen die später aufgerufenen pattern noch vor der setup() Funktion deklariert werden
 void rainbow();
 void rainbowWithGlitter(); 
-void addGlitter( fract8 chanceOfGlitter);
+void addGlitter(fract8 chanceOfGlitter);
 void confetti(); 
 void sinelon();
 void bpm();
