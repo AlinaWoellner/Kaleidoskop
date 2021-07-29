@@ -1,4 +1,4 @@
-# Kaleidoskope
+# Kaleidoscope
 
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
@@ -91,8 +91,6 @@
 <!-- GETTING STARTED -->
 ## Einstieg
 
-So kommt man eine lokale Kopie des Projekts
-
 ### Installation
 
 Mit Visual Studio Code:
@@ -124,17 +122,14 @@ Schaltplan
 Schaltplan, erstellt mit TinkerCAD:
 ![Schaltung_Kaleidoscope](https://user-images.githubusercontent.com/82510384/127372737-56c22987-f8d0-49bc-ae4a-e46f2c79826f.png)
 
-  1.  
-  2.  
-  3.  
-  4.  
-  5.  
-  6.  
-  7.  
-  8.  
-  9.  
-  10. 
-
+ 1.  Ein Kabel vom GND des LED-Rings mit dem Minuspol der Steckplatine verbinden
+ 2.  Ein Kabel von den 5V des LED-Rings mit dem Pluspol der Steckplatine verbinden
+ 4.  Ein Kabel vom Di/ Din/ Data Input mit dem Pin 3 am Arduino verbinden
+ 5.  Ein Kabel vom Minuspol der Steckplatine mit dem GND am Arduino UNO verbinden
+ 6.  Ein Kabel vom Pluspol der Steckplatine mit den 5V am Arduino UNO verbinden
+ 7.  Den Arduino UNO per USB-Kabel mit einem Computer/ Laptop verbinden
+ 8.  Das Programm in Visual Studio Code auf den Arduino laden
+ 9.  Die Lichtshow genießen
 
 ##  Entstehungsprozess
 
