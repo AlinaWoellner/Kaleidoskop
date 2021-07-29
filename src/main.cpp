@@ -55,7 +55,7 @@ void loop() // Ausführung des Programms
   FastLED.delay(1000/FRAMES_PER_SECOND); // Verlangsamung der Animation
 
   // Regelmäßige updates
-  EVERY_N_MILLISECONDS( 20 ) { gHue++; } // langsam die "Grundfarbe" durch die Farben des Regenbogens führen
+  EVERY_N_MILLISECONDS( 20 ) { gHue++; } // Langsam die "Grundfarbe" durch die Farben des Regenbogens führen
   EVERY_N_SECONDS( 10 ) { nextPattern(); } // In regelmäßigen Abständen das pattern wechseln
 }
 
