@@ -85,7 +85,7 @@ Erstellen eines Kaleidoskops mit einfach zu besorgenden Gegenständen, einem Ard
 * []()  1 Pringles-Packung 
 * []()  Spiegelfolie für den Innenbereich der Pringles-Packung
 * []()  Dickeres Papier um die Spiegelfolie zu verstärken
-* []()  Schwarzes Papier für den Boden Der Pringles-Packung
+* []()  Schwarzes Papier für den Boden der Pringles-Packung
 * []()  Kleber
 * []()  1 Schere/ Messer
 * []()  Weiße Acrylfarbe zum Grundieren
