@@ -24,7 +24,7 @@
   <h3 align="center">Kaleidoskop</h3>
 
   <p align="center">
-    Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
+    Erstellen eines Kaleidoskops mit einfachen Gegenständen, einem Arduino Uno und einem LED-Ring
     <br />
     <br />
     <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs">Dokumentation</a>
