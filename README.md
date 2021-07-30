@@ -162,7 +162,7 @@ Pringles-Packung:
 Um den LED-Ring entspannt in die Verpackung und wieder hinauszubekommen entschied ich mich am Boden, fast am metallenen Endstück, einen Schlitz reinzuschneiden:
 ![2021-07-29 11-57-02](https://user-images.githubusercontent.com/82510384/127583286-0dadfe30-6a16-4019-9528-86feb0bf9f97.jpeg)
 
-Code: Ich entschied mich nach einem anderen, vielleicht sogar besseren Code zu suchen und entschied mich für ein Demo Reel für die FastLED library. Auch hier hatte ich etwas Probleme ihn zum laufen zubringen. Schlussendlich und nach einiger Recherche, fand ich heraus woran es lag und konnte es beheben. Der Code stand also schon mal.
+Code: Ich kam zu dem Schluß, dass es sinnvoller ist nach einem anderen Code zu suchen und entschied mich für ein Demo Reel für die FastLED library. Auch hier hatte ich etwas Probleme ihn zum laufen zubringen. Schlussendlich und nach einiger Recherche, fand ich heraus woran es lag und konnte es beheben. Der Code stand also schon mal.
 
 Spiegelnde Oberflächen: 
 Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
