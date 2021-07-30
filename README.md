@@ -151,6 +151,8 @@ Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. A
     <img src="https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg" alt="Logo" width="400" height="880">
 </a>
 
+<img src="https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg" alt="Logo" width="400" height="880">
+
 Zwischeneinschub:
 Kondensatoren und einen 470Ω Widerstand ausgeliehen, allerdings später doch nicht gebraucht.
 
