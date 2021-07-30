@@ -156,7 +156,7 @@ LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
 ![2021-07-29 11-50-18](https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg)
 
-Code: Ich hatte Probleme mit dem Code meines ausgewählten Vorbilds und probierte sehr in VS Code rum
+Code: Ich hatte Probleme mit dem Code meines ausgewählten Vorbilds und probierte in VS Code rum
 
 Pringles-Packung:
 Um den LED-Ring entspannt in die Verpackung und wieder hinauszubekommen entschied ich mich am Boden, fast am metallenen Endstück, einen Schlitz reinzuschneiden:
