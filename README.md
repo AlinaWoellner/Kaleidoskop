@@ -127,9 +127,10 @@ Schaltplan
 
 ## Beispielaufbau
 Schaltplan, erstellt mit TinkerCAD:
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127372737-56c22987-f8d0-49bc-ae4a-e46f2c79826f.png" alt="Logo" width="80" height="80">
-  </a>
+
+![2021-07-29 11-52-43_copy](https://user-images.githubusercontent.com/82510384/127649793-0e514954-fa90-4e01-9eb2-338f85338ee0.jpeg)
+
+
 ![Schaltung_Kaleidoscope](https://user-images.githubusercontent.com/82510384/127372737-56c22987-f8d0-49bc-ae4a-e46f2c79826f.png)
 
  1.  Ein Kabel vom GND des LED-Rings mit dem Minuspol der Steckplatine verbinden
