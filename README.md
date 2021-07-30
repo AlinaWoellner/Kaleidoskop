@@ -138,7 +138,8 @@ Schaltplan, erstellt mit TinkerCAD:
  8.  Das Programm in Visual Studio Code auf den Arduino laden
  9.  Die Lichtshow genießen
 
-Evtl. Foto von der Verbindung?
+Fertiger Aufbau:
+![Schaltplanfr](https://user-images.githubusercontent.com/82510384/127661633-5f1ffebc-7081-4694-89cb-1fb97cee842f.jpg)
 
 ##  Entstehungsprozess
 
