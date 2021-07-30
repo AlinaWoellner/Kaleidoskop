@@ -147,10 +147,6 @@ Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit
 Pringles-Packung:
 Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe. Das Weiß sollte zunächst als Grundierung dienen. 
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg" alt="Logo" width="400" height="880">
-</a>
-
 <img src="https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg" alt="Logo" width="400" height="880">
 
 Zwischeneinschub:
@@ -159,47 +155,34 @@ Kondensatoren und einen 470Ω Widerstand ausgeliehen, allerdings später doch ni
 LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg" alt="Logo" width="500" height="355">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg" alt="Logo" width="500" height="355">
 
 Code: Ich hatte Probleme mit dem Code meines ausgewählten Vorbilds auf instructables und ich versuchte sie in VS Code zu beseitigen
 
 Pringles-Packung:
 Um den LED-Ring entspannt in die Verpackung und wieder hinauszubekommen entschied ich mich am Boden, fast am metallenen Endstück, einen Schlitz reinzuschneiden:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127583286-0dadfe30-6a16-4019-9528-86feb0bf9f97.jpeg" alt="Logo" width="500" height="334">
-</a>
-
+<img src="https://user-images.githubusercontent.com/82510384/127583286-0dadfe30-6a16-4019-9528-86feb0bf9f97.jpeg" alt="Logo" width="500" height="334">
 
 Code: Ich kam zu dem Entschluss, dass es sinnvoller ist, nach einem anderen Code zu suchen und entschied mich für ein Demo Reel für die FastLED library. Auch hier hatte ich etwas Probleme ihn zum Laufen zu bringen. Schlussendlich fand ich nach einiger Recherche heraus woran es lag und konnte es beheben. Man musste die später aufgerufenen Funktionen zusätzlich vor der setup() Funktion deklarieren. Der Code stand also schon mal.
 
 Spiegelnde Oberflächen: 
 Mein Plan war entweder eine dreieckige oder eine sechseckige Form in die Pringles-Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden, wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg" alt="Logo" width="500" height="458">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg" alt="Logo" width="500" height="458">
 
 Als nächstes maß ich eine Seite aus. In meinem Fall waren es 3,5 cm. Ich erstellte sechs Streifen (3,5cm * 25 cm) aus dickerem Papier. Die 25 cm entsprechen der Länge der Pringles-Packung: 
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg" alt="Logo" width="500" height="375">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg" alt="Logo" width="500" height="375">
 
 Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie, nicht Streifen für Streifen, sondern zusammenhängend, aus. Ich versuchte es auch mit einer dreiseitigen Form, bei der die Streifen nur aufgezeichnet und geknickt waren. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität bieten und ich sie besser zu einer sechseckigen Form aufstellen konnt:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg" alt="Logo" width="500" height="375">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg" alt="Logo" width="500" height="375">
 
 Alles:
 Ich setzte den LED-Ring durch den Schlitz und durch die normale Öffnung das spiegelnde Gebilde in die Verpackung. Ich lud den Code mit Hilfe des Arduinos hoch. Es hat wunderbar geklappt. Eine kleine Verbesserung an der Verpackung nahm ich noch vor. Der Boden, auf dem der LED-Ring liegt, ist standardmäßig silbrig und nicht schimmernd. Ich schnitt etwas schwarzes Papier passend aus und legte es unter den LED-Ring:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127584266-2d21547f-369d-4bff-9f3a-7fc80f43c5fe.jpeg" alt="Logo" width="500" height="375">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127584266-2d21547f-369d-4bff-9f3a-7fc80f43c5fe.jpeg" alt="Logo" width="500" height="375">
 
 Hierdurch wird der Eindruck, dass die Lichter aus dem dunklen Nichts enstehen, verstärkt.
 So sieht das Kaleidoskop nur durch das Handy-Blitzlicht aus:
@@ -213,15 +196,12 @@ Ich übersetzte die englischen Originalkommentare und fügte eigene Kommentare h
 Pringles-Verpackung:
 Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitzer, auf. Ich hatte es vorher auf einer anderen Fläche getestet, auf der der Glitzer auch durchschien. Auf der Pringles-Packung war dies nur bedingt der Fall:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="938">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="938">
+
 
 Also entschied ich mich etwas rumzuexperimentieren. Die für mich beste Lösung ist Leim für Serviettentechnik, welchen ich mit Glitzer gemischt habe:
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127686603-b94a9cc9-a5f4-4959-83ba-e5a1fbf8f4ad.jpg" alt="Logo" width="500" height="521">
-</a>
+<img src="https://user-images.githubusercontent.com/82510384/127686603-b94a9cc9-a5f4-4959-83ba-e5a1fbf8f4ad.jpg" alt="Logo" width="500" height="521">
 
 Video:
 
