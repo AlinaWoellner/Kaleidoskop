@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
 
-Erstellen eines Kaleidoskops mit einfachen Gegenständen, einem Arduino Uno und einem LED-Ring
+Erstellen eines Kaleidoskops mit einfach zu besorgenden Gegenständen, einem Arduino Uno und einem LED-Ring
 
 ### Werkzeuge
 
@@ -186,8 +186,11 @@ Ich setzte den LED-Ring durch den Schlitz und durch die normale Öffnung das spi
 
 Hierdurch wird der Eindruck, dass die Lichter aus dem dunklen Nichts enstehen, verstärkt.
 So sieht das Kaleidoskop nur durch das Handy-Blitzlicht aus:
+
 ![2021-07-27 23-12-06](https://user-images.githubusercontent.com/82510384/127584524-e1f9614a-c163-4fb9-82ee-625aa758de8c.jpeg)
+
 Beleuchtet durch die LEDs:
+
 ![2021-07-27 23-05-47_copy](https://user-images.githubusercontent.com/82510384/127584589-ddc5af22-4396-4798-a9d4-c21c0c8b622a.jpeg)
 
 Code: 
