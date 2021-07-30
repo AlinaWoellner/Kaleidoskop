@@ -1,4 +1,4 @@
-# Kaleidoscope
+# Kaleidoskop
 
 <!--
 *** To avoid retyping too much info. Do a search and replace for the following:
@@ -26,14 +26,14 @@
   <p align="center">
     Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
     <br />
-    <a href="https://github.com/AlinaWoellner/Kaleidoskope"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskop"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AlinaWoellner/Kaleidoskope">View Demo</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskop">View Demo</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Kaleidoskope/issues">Report Bug</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskop/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AlinaWoellner/Kaleidoskope/issues">Request Feature</a>
+    <a href="https://github.com/AlinaWoellner/Kaleidoskop/issues">Request Feature</a>
   </p>
 </p>
 
