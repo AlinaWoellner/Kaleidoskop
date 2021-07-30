@@ -189,7 +189,7 @@ Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitzer, auf. 
 
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="983">
+    <img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="938">
   </a>
 
 Also entschied ich mich etwas rumzuexperimentieren. Die für mich beste Lösung ist Leim für Serviettentechnik, welchen ich mit Glitzer gemischt habe:
