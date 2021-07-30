@@ -210,7 +210,7 @@ Zusatz:
 Zwischendurch fertigte ich die Fotos und das Video an. Zuletzt wurde die README-Datei aufgehübscht.
 
 Video:
-https://youtu.be/RmL65JgzAOU
+https://youtu.be/wkrmrg0hbWU
 
 ##  Reflektion
 
