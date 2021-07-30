@@ -187,6 +187,7 @@ Pringles-Verpackung:
 Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitzer, auf. Ich hatte es vorher auf einer anderen Fläche getestet, auf der der Glitzer auch durchschien. Auf der Pringles-Packung war dies nur bedingt der Fall:
 ![IMG_0372](https://user-images.githubusercontent.com/82510384/127680328-5358f75f-63e4-4a06-a048-112660be1ff0.jpg)
 Also entschied ich mich etwas rumzuexperimentieren. Die für mich beste Lösung ist Leim für Serviettentechnik, welchen ich mit Glitzer gemischt habe:
+![IMG_0387](https://user-images.githubusercontent.com/82510384/127686603-b94a9cc9-a5f4-4959-83ba-e5a1fbf8f4ad.jpg)
 
 
 
