@@ -69,9 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
 
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+In diesem Projekt wird ein simples und effektives Kaleidoskop gebaut. 
 
 ### Werkzeuge
 
@@ -90,7 +88,8 @@
 #### Bau des Kaleidoskops
 * []()  1 Pringles-Packung 
 * []()  Spiegelfolie für den Innenbereich der Pringles-Packung
-* []()  dickeres Papier um die Spiegelfolie zu verstärken
+* []()  Dickeres Papier um die Spiegelfolie zu verstärken
+* []()  Schwarzes Papier für den Boden Der Pringles-Packung
 * []()  1 Schere/ Messer
 * []()  Weiße Acrylfarbe zum Grundieren
 * []()  Schwarze Acrylfarbe, gemischt mit Glitter zum Drübermalen
@@ -146,11 +145,15 @@ Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit
 
 Für das Kaleidoskop
 
+Pringles-Packung:
+Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe, da sie gute deckt. Das Weiß sollte zunächst als Grundierung dienen. 
 
+LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
 ![2021-07-29 11-50-18](https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg)
 
-Mein Plan war entweder eine dreicke oder eine sechseckige Form in dir Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie geklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das Sechseckigegebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
+Spiegelnde Oberflächen: 
+Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
 ![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
 
 
@@ -160,7 +163,7 @@ Mein Plan war entweder eine dreicke oder eine sechseckige Form in dir Pringles P
 
 
 
-
+Parallel mit dem Code beschäftigt, Probleme gehabt, dagegen entschieden, nach einem anderen Code recherchiert, ebenfalls Probleme gehabt, aber gelöst. 
 
 ##  Reflektion
 
