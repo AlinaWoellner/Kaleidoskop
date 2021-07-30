@@ -169,7 +169,7 @@ Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles P
 ![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
 Als nächstes maß ich eine Seite aus. In meinem Fall waren es 3,5 cm. Ich erstellte sechs Streifen (3,5cm * 25 cm) aus dickerem Papier. Die 25 cm entsprechen der Länge der Pringles Packung: 
 ![2021-07-27 21-30-52](https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg)
-Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie aus. Ich versuche es auch mit einem zusammenhängenden und nur geknickten Papier. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität boden und ich sie besser zu einer sechseckigen Form ziehen konnte.
+Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie, nicht einzeln, sondern zusammenhängend, aus. Ich versuchte es auch mit einem zusammenhängenden und nur geknickten Papier. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität bieten und ich sie besser zu einer sechseckigen Form aufstellen konnte.
 ![2021-07-29 12-05-24](https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg)
 
 Alles:
