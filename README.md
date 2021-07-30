@@ -188,6 +188,7 @@ Ich übersetzte die englischen Originalkommentare und fügte eigene Kommentare h
 
 Pringles-Verpackung:
 Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitzer, auf. Ich hatte es vorher auf einer anderen Fläche getestet, auf der der Glitzer auch durchschien. Auf der Pringles-Packung war dies nur bedingt der Fall:
+
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="938">
 </a>
