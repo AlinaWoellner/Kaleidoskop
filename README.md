@@ -156,7 +156,10 @@ Kondensatoren und einen 470Ω Widerstand ausgeliehen, allerdings später doch ni
 
 LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
-![2021-07-29 11-50-18](https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg)
+
+<a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg" alt="Logo" width="500" height="355">
+</a>
 
 Code: Ich hatte Probleme mit dem Code meines ausgewählten Vorbilds auf instructables und ich versuchte sie in VS Code zu beseitigen
 
@@ -198,7 +201,6 @@ Also entschied ich mich etwas rumzuexperimentieren. Die für mich beste Lösung 
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://user-images.githubusercontent.com/82510384/127686603-b94a9cc9-a5f4-4959-83ba-e5a1fbf8f4ad.jpg" alt="Logo" width="500" height="521">
 </a>
-
 
 Video:
 
