@@ -146,7 +146,10 @@ Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit
 
 Pringles-Packung:
 Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe. Das Weiß sollte zunächst als Grundierung dienen. 
-![2021-07-29 11-52-43](https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg)
+
+<a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg" alt="Logo" width="400" height="880">
+</a>
 
 Zwischeneinschub:
 Kondensatoren und einen 470Ω Widerstand ausgeliehen, allerdings später doch nicht gebraucht.
