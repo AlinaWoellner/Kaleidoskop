@@ -197,7 +197,7 @@ Code:
 Ich übersetzte die englischen Originalkommentare und fügte eigene Kommentare hinzu
 
 Pringles-Verpackung:
-Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitzer, auf. Ich hatte es vorher auf einer anderen Fläche getestet, auf der der Glitzer auch durchschien. Auf der Pringles-Packung war dies nur bedingt der Fall:
+Ich hübschte das Äußere mit schwarzer Acrylfarbe, gemischt mit Glitter, auf. Ich hatte es vorher auf einer anderen Fläche getestet, auf der der Glitter auch durchschien. Auf der Pringles-Packung war dies nur bedingt der Fall:
 
 <img src="https://user-images.githubusercontent.com/82510384/127687422-28f1a319-9f72-4b13-8474-b9d27934f58a.jpg" alt="Logo" width="500" height="938">
 
@@ -206,16 +206,19 @@ Also entschied ich mich etwas rumzuexperimentieren. Die für mich beste Lösung 
 
 <img src="https://user-images.githubusercontent.com/82510384/127686603-b94a9cc9-a5f4-4959-83ba-e5a1fbf8f4ad.jpg" alt="Logo" width="500" height="521">
 
+Zusatz:
+Zwischendurch fertigte ich die Fotos und das Video an. Zuletzt wurde die README-Datei aufgehübscht.
+
 Video:
 https://youtu.be/RmL65JgzAOU
 
 ##  Reflektion
 
-Mein Ziel war es selbständig LEDs ansteuern zu können um ein schönes Lichterlebnis zum enstehen zu bringen. Ich wollte ursprünglich das "Franken'can LED Kaleidoscope" auf instructables komplett umsetzen. Da ich einige Zeit unlösbare Probleme hatte, suchte ich nach Alternativen und fand einen Code, welcher meiner Meinung nach sogar passendere Animationen generierte. Vom Aufbau des Kaleidoskops habe ich mich von der Franken'can inspirieren lassen, habe allerdings einige Dinge für mich angepasst. 
+Mein Ziel war es selbständig LEDs ansteuern zu können um ein schönes Lichterlebnis haben. Ich wollte ursprünglich das "Franken'can LED Kaleidoscope" auf instructables komplett umsetzen. Da ich einige Zeit unlösbare Probleme hatte, suchte ich nach Alternativen und fand einen Code, welcher meiner Meinung nach sogar passendere Animationen generierte. Vom Aufbau des Kaleidoskops habe ich mich allerdings trotzdem von der "Franken'can" inspirieren lassen. Das Ziel wurde erreicht und ich bin sehr zufrieden mit dem Ergebnis.
 
 ## Noch zu erledigen
 
-Ich habe mein Ziel erreicht. Man könnte noch andere Animationen ausprobieren und einen Schalter wie beim Beispiel auf instructables implementieren-
+Ich habe mein Ziel erreicht. Man könnte optional andere Animationen ausprobieren und einen Schalter wie bei der "Franken'can" nutzen.
 
 ## Hauptquellen
 
@@ -223,11 +226,11 @@ Template für die README-Datei: https://github.com/othneildrew/Best-README-Templ
 
 Idee des Kaleidoskops/ grober Aufbau: https://www.instructables.com/Frankencan-LED-Kaleidoscope/
 
-Andere Anleitung zum Anschließen: https://www.youtube.com/watch?v=bm1Avnn1hb8&list=PLw2RrRDBhVsuskd1GUztLoT4q-8Fo56go&index=11&t=47s
+Anleitung zum Anschließen: https://www.youtube.com/watch?v=bm1Avnn1hb8&list=PLw2RrRDBhVsuskd1GUztLoT4q-8Fo56go&index=11&t=47s
 
 Ausgangscode: https://gist.github.com/kriegsman/062e10f7f07ba8518af6
 
-Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#convert-arduino-file-to-c-manually
+Hilfe beim Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#convert-arduino-file-to-c-manually
 
 <!-- CONTACT -->
 ## Kontakt
