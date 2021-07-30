@@ -149,26 +149,46 @@ Pringles-Packung:
 Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe, da sie gute deckt. Das Weiß sollte zunächst als Grundierung dienen. 
 ![2021-07-29 11-52-43](https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg)
 
+Zwischeneinschub:
+Kondensatoren und einen 470Ω Widerstand ausgeliehen, allerdings doch nicht gebraucht
+
 LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
 ![2021-07-29 11-50-18](https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg)
 
-Spiegelnde Oberflächen: 
-Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
-![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
-Als nächstes maß ich eine Seite aus. In meinem Fall waren es 3,5 cm. Ich erstellte sechs Streifen (3,5cm * 25 cm) aus dickerem Papier. Die 25 cm entsprechen der Länge der Pringles Packung: 
-![2021-07-27 21-30-52](https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg)
-Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie aus. Ich versuche es auch mit einem zusammenhängenden und nur geknickten Papier. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität boden und ich sie besser zu einer sechseckigen Form ziehen konnte.
-![2021-07-29 12-05-24](https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg)
+Code: Ich hatte Probleme mit dem Code meines ausgewählten Vorbilds und probierte sehr in VS Code rum
 
 Pringles-Packung:
 Um den LED-Ring entspannt in die Verpackung und wieder hinauszubekommen entschied ich mich am Boden, fast am metallenen Endstück, einen Schlitz reinzuschneiden:
 ![2021-07-29 11-57-02](https://user-images.githubusercontent.com/82510384/127583286-0dadfe30-6a16-4019-9528-86feb0bf9f97.jpeg)
 
+Code: Ich entschied mich nach einem anderen, vielleicht sogar besseren Code zu suchen und entschied mich für ein Demo Reel für die FastLED library. Auch hier hatte ich etwas Probleme ihn zum laufen zubringen. Schlussendlich und nach einiger Recherche, fand ich heraus woran es lag und konnte es beheben. Der Code stand also schon mal.
+
+Spiegelnde Oberflächen: 
+Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
+![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
+Als nächstes maß ich eine Seite aus. In meinem Fall waren es 3,5 cm. Ich erstellte sechs Streifen (3,5cm * 25 cm) aus dickerem Papier. Die 25 cm entsprechen der Länge der Pringles Packung: 
+![Streifen](https://user-images.githubusercontent.com/82510384/127584814-c1e776d8-b322-4640-ba35-fc2c18e55f5c.jpg)
+![2021-07-27 21-30-52](https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg)
+Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie aus. Ich versuche es auch mit einem zusammenhängenden und nur geknickten Papier. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität boden und ich sie besser zu einer sechseckigen Form ziehen konnte.
+![2021-07-29 12-05-24](https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg)
+
+Alles:
+Ich setzte den LED-Ring durch den Schlitz und durch die normale Öffnung das spiegelnde Gebilde in die Verpackung. Ich lud den Code mit Hilfe des Arduinos hoch. Es hat wunderbar geklappt. Eine kleine Verbesserung an der Verpackung nahm ich noch vor. Der Boden, auf dem der LED-Ring liegt, ist standardmäßig silbrig und nicht schimmernd. Ich schnitt etwas schwarzes Papier passend aus und legte es unter den Ring. 
+![2021-07-29 11-59-27](https://user-images.githubusercontent.com/82510384/127584266-2d21547f-369d-4bff-9f3a-7fc80f43c5fe.jpeg)
+Hierdurch wird der Eindruck, dass die Lichter aus dem dunklen Nichts enstehen, verstärkt.
+So sieht das Kaleidoskop nur durch das Handy-Blitzlicht aus:
+![2021-07-27 23-12-06](https://user-images.githubusercontent.com/82510384/127584524-e1f9614a-c163-4fb9-82ee-625aa758de8c.jpeg)
+Und so durch die LEDs beleuchtet:
+![2021-07-27 23-05-47_copy](https://user-images.githubusercontent.com/82510384/127584589-ddc5af22-4396-4798-a9d4-c21c0c8b622a.jpeg)
+
+Code: 
+Ich übersetzte die englischen Originalkommentare und fügte eigene Kommentare hinzu
+
+Pringles-Verpackung:
 
 
-
-Parallel mit dem Code beschäftigt, Probleme gehabt, dagegen entschieden, nach einem anderen Code recherchiert, ebenfalls Probleme gehabt, aber gelöst. 
+Video:
 
 ##  Reflektion
 
