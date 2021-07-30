@@ -69,8 +69,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Das Projekt
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Werkzeuge
@@ -87,6 +87,13 @@
 * []()  Platform IO Plugin
 * []()  FastLED Library
 
+#### Bau des Kaleidoskops
+* []()  1 Pringles-Packung 
+* []()  Spiegelfolie für den Innenbereich der Pringles-Packung
+* []()  dickeres Papier um die Spiegelfolie zu verstärken
+* []()  1 Schere/ Messer
+* []()  Weiße Acrylfarbe zum Grundieren
+* []()  Schwarze Acrylfarbe, gemischt mit Glitter zum Drübermalen
 
 <!-- GETTING STARTED -->
 ## Einstieg
@@ -131,13 +138,37 @@ Schaltplan, erstellt mit TinkerCAD:
  8.  Das Programm in Visual Studio Code auf den Arduino laden
  9.  Die Lichtshow genießen
 
+Evtl. Foto von der Verbindung?
+
 ##  Entstehungsprozess
+
+Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit Neopixel. Für das Projekt benutzte ich den der Marke DollaTek
+
+Für das Kaleidoskop
+
+
+Löten der Kabel an die Kontakte des LED-Rings:
+![2021-07-29 11-50-18](https://user-images.githubusercontent.com/82510384/127578643-a42efa6c-7f1e-4136-ac5c-1e1309cc896a.jpeg)
+
+Mein Plan war entweder eine dreicke oder eine sechseckige Form in dir Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie geklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das Sechseckigegebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
+![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
+
+
+
+
+![2021-07-27 21-30-52](https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg)
+
+
 
 
 
 ##  Reflektion
 
+Mein Ziel war es selbständig LEDs ansteuern zu können um ein schönes Lichterlebnis zum enstehen zu bringen. Ich wollte ursprünglich das "Franken'can LED Kaleidoscope" auf instructables komplett umsetzen. Da ich einige Zeit unlösbare Probleme hatte, suchte ich nach Alternativen und fand einen Code, welcher meiner Meinung nach sogar passendere Animationen generierte. Vom Aufbau des Kaleidoskops habe ich mich von der Franken'can inspirieren lassen, habe allerdings einige Dinge für mich angepasst. 
+
 ## Noch zu erledigen
+
+Ich habe mein Ziel erreicht. Man könnte noch andere Animationen ausprobieren und einen Schalter wie beim Beispiel auf instructables implementieren
 
 ## Hauptquellen
 
