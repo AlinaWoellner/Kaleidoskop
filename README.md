@@ -208,7 +208,7 @@ Anpassen des FastLED Codes: https://docs.platformio.org/en/latest/faq.html#conve
 <!-- CONTACT -->
 ## Kontakt
 
-Project Link: [https://github.com/AlinaWoellner/Kaleidoskope](https://github.com/AlinaWoellner/Kaleidoskop)
+Projekt Link: [https://github.com/AlinaWoellner/Kaleidoskope](https://github.com/AlinaWoellner/Kaleidoskop)
 
 
 
