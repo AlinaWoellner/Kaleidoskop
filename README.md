@@ -26,7 +26,13 @@
   <p align="center">
     Eine Übung zum Steuern eines LED-Streifens mit dem Arduino UNO
     <br />
-    <a href="https://github.com/AlinaWoellner/Kaleidoskop"><strong>Dokumentation»</strong></a>
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs">Dokumentation</a>
+    ·
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Fehlerbericht</a>
+    ·
+    <a href="https://github.com/AlinaWoellner/Drehknopf-mit-RGB-LEDs/issues">Verbesserungsvorschlag</a>
+  </p>
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
