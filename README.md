@@ -146,7 +146,7 @@ LED-Ring:
 Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit Neopixel. Für das Projekt benutzte ich den der Marke DollaTek
 
 Pringles-Packung:
-Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe, da sie gute deckt. Das Weiß sollte zunächst als Grundierung dienen. 
+Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe, da sie gut deckt. Das Weiß sollte zunächst als Grundierung dienen. 
 ![2021-07-29 11-52-43](https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg)
 
 Zwischeneinschub:
