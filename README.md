@@ -90,6 +90,7 @@ In diesem Projekt wird ein simples und effektives Kaleidoskop gebaut.
 * []()  Spiegelfolie für den Innenbereich der Pringles-Packung
 * []()  Dickeres Papier um die Spiegelfolie zu verstärken
 * []()  Schwarzes Papier für den Boden Der Pringles-Packung
+* []()  Kleber
 * []()  1 Schere/ Messer
 * []()  Weiße Acrylfarbe zum Grundieren
 * []()  Schwarze Acrylfarbe, gemischt mit Glitter zum Drübermalen
@@ -141,12 +142,12 @@ Evtl. Foto von der Verbindung?
 
 ##  Entstehungsprozess
 
+LED-Ring:
 Ich habe mir zwei LED-Ringe besorgt, einen der Marke DollaTek und einen Adafruit Neopixel. Für das Projekt benutzte ich den der Marke DollaTek
-
-Für das Kaleidoskop
 
 Pringles-Packung:
 Ich entfernte die Folie im Inneren um die Krümel besser entfernen zu können. Als nächstes bemalte ich das Äußere mit weißer Acrylfarbe, da sie gute deckt. Das Weiß sollte zunächst als Grundierung dienen. 
+![2021-07-29 11-52-43](https://user-images.githubusercontent.com/82510384/127582644-34bc3cff-47f0-4dc0-a0da-5529ba2fd2ed.jpeg)
 
 LED-Ring:
 Löten der Kabel an die Kontakte des LED-Rings:
@@ -155,11 +156,15 @@ Löten der Kabel an die Kontakte des LED-Rings:
 Spiegelnde Oberflächen: 
 Mein Plan war entweder eine dreicke oder eine sechseckige Form in die Pringles Packung zu setzen, welche auf der Innenseite mit Spiegelfolie beklebt ist, um die Lichter besser zu reflektieren. Um herauszufinden wie groß das sechseckige Gebilde in der Pringles-Packung sein kann, fertigte ich diese Zeichnung an:
 ![2021-07-29 11-48-32](https://user-images.githubusercontent.com/82510384/127581071-614e7f02-c15b-43d9-9a31-d87d560751ed.jpeg)
-
-
-
-
+Als nächstes maß ich eine Seite aus. In meinem Fall waren es 3,5 cm. Ich erstellte sechs Streifen (3,5cm * 25 cm) aus dickerem Papier. Die 25 cm entsprechen der Länge der Pringles Packung: 
 ![2021-07-27 21-30-52](https://user-images.githubusercontent.com/82510384/127580898-eb9d2dce-56ec-4595-a208-89a4c65886f4.jpeg)
+Ich klebte die Streifen parallel auf die Spiegelfolie und schnitt sie aus. Ich versuche es auch mit einem zusammenhängenden und nur geknickten Papier. Hierbei stellte ich fest, dass meine erste Variante besser ist, da die getrennten Streifen auf der Spiegelfolie mehr Flexibilität boden und ich sie besser zu einer sechseckigen Form ziehen konnte.
+![2021-07-29 12-05-24](https://user-images.githubusercontent.com/82510384/127583075-61b29c53-1f22-435d-8649-4532de6ed83d.jpeg)
+
+Pringles-Packung:
+Um den LED-Ring entspannt in die Verpackung und wieder hinauszubekommen entschied ich mich am Boden, fast am metallenen Endstück, einen Schlitz reinzuschneiden:
+![2021-07-29 11-57-02](https://user-images.githubusercontent.com/82510384/127583286-0dadfe30-6a16-4019-9528-86feb0bf9f97.jpeg)
+
 
 
 
